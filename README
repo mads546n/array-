@@ -1,0 +1,10 @@
+Først har jeg opstillet 4 variabler:
+array1 og array2 som er 2 arrays med 3 forskellige tilfældige tal i hver. 
+sum8 som er det tal, vi kigger efter. 
+smallestdiff som er den mindste forskel.
+
+Derefter har jeg opstillet 2 for-loops. 1 for i og 1 for j, som gentager loopet. 
+
+Mine for-loops er opfulgt af 2 if-statements: 
+Det første if-statement fortæller, at hvis tallet, som er fundet, er større end 8, som er det ønskede tal, så pusher den igen.
+Det andet if-statement fortæller, at hvis tallet, som er fundet, er mindre end variablen "smallestdiff", så pusher den igen.  
