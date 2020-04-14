@@ -9,7 +9,7 @@ for (i = 0 < array1.length; i++) {
             sum8.push([array1[i], array2[j]]);        
         }
         if (array1[i] + array2[j] < smallestdiff) {
-            sum8.push([array1[i], array2[j]);
+            sum8.push([array1[i], array2[j]]);
             }
         } 
     }
